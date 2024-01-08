@@ -24,6 +24,18 @@ data = {
         "gratitude": {
             "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me", "I owe you one", "Cheers mate", "Much appreciated", "helful" , "appreciated"],
             "responses": ["Happy to help!", "Any time!", "My pleasure", "You're most welcome!"]
+        },
+        "mood": {
+            "patterns": ["How are you?", "How are you doing?", "What's going on?", "How is your day?", "How's everything?", "How's life?", "How's your day going?", "How have you been?", "What's up?", "What's new?", "What's happening?", "How's it going?"],
+            "responses": ["I'm doing great. Thanks for asking!", "I'm doing good. Thanks for asking!", "I'm doing well. Thanks for asking!", "I'm doing awesome. Thanks for asking!", "I'm doing fine. Thanks for asking!", "I'm doing okay. Thanks for asking!", "I'm doing alright. Thanks for asking!", "I'm doing good. Thanks for asking!", "I'm doing great. Thanks for asking!", "I'm doing well. Thanks for asking!", "I'm doing awesome. Thanks for asking!", "I'm doing fine. Thanks for asking!", "I'm doing okay. Thanks for asking!", "I'm doing alright. Thanks for asking!"]
+        },
+        "anger": {
+            "patterns": ["You suck", "You're a loser", "You're a failure", "You're a disappointment", "You're a waste of time", "You're a waste of space", "You're a waste of oxygen", "You're a waste of life", "You're a waste of a human being", "You're a waste of a person", "You're a waste of a soul", "You're a waste of a body", "You're a waste of a mind", "You're a waste of a brain"],
+            "responses": ["I'm sorry you feel that way", "I'm sorry you feel that way. I'll try to do better", "I'm sorry you feel that way. I'll try to do better next time", "I'm sorry you feel that way. I'll try to do better next time", "I'm sorry you feel that way. I'll try to do better next time", "I'm sorry you feel that way. I'll try to do better next time", "I'm sorry you feel that way. I'll try to do better next time", "I'm sorry you feel that way. I'll try to do better next time", "I'm sorry you feel that way. I'll try to do better next time", "I'm sorry you feel that way. I'll try to do better next time"]
+        },
+        "happy": {
+            "patterns": ["I'm happy", "I'm feeling good", "I'm excited", "I'm thrilled", "This is awesome", "I'm satisfied", "I'm pleased", "I love this"],
+            "responses": ["That's great to hear!", "I'm glad you're happy!", "That's awesome!", "I'm happy to hear that!"]
         }
     }
 }
