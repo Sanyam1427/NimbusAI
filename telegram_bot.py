@@ -47,7 +47,7 @@ def get_response(intent):
     return np.random.choice(responses["intents"][intent]["responses"])
 
 # Initialize bot
-bot = telebot.TeleBot("6958490839:AAGzx8s-XAbenRNTbccI7YTvDKmDWn73xRw")
+bot = telebot.TeleBot("Bot Token Here")
 
 @bot.message_handler(commands=['start'])
 def send_welcome(message):
